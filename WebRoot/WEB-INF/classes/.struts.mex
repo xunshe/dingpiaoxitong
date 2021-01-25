@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Struts2Diagram version="2.0">
+  <package name="liu" location="10,165" size="2485,3570">
+    <action name="upload" location="2270,57" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="upload_re.jsp" />
+      </result>
+    </action>
+    <action name="index" location="2270,232" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="index.jsp" />
+      </result>
+    </action>
+    <action name="userReg" location="2025,233" size="150,40" />
+    <action name="userEdit" location="2025,128" size="150,40" />
+    <action name="userLogin" location="1780,128" size="150,40" />
+    <action name="userLogout" location="1780,407" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="default.jsp" />
+      </result>
+    </action>
+    <action name="userDel" location="1535,408" size="150,40" />
+    <action name="userMana" location="1535,582" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="userMana.jsp" />
+      </result>
+    </action>
+    <action name="userXinxi" location="1535,757" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="userXinxi.jsp" />
+      </result>
+    </action>
+    <action name="adminAdd" location="1535,863" size="150,40" />
+    <action name="adminDel" location="2270,863" size="150,40" />
+    <action name="adminManage" location="2270,967" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="adminManage.jsp" />
+      </result>
+    </action>
+    <action name="liuyanMana" location="2270,1142" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="liuyanMana.jsp" />
+      </result>
+    </action>
+    <action name="liuyanAdd" location="2025,1143" size="150,40" />
+    <action name="liuyanDel" location="1780,1143" size="150,40" />
+    <action name="liuyanAll" location="1780,1317" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="liuyanAll.jsp" />
+      </result>
+    </action>
+    <action name="gonggaoAdd" location="1535,1318" size="150,40" />
+    <action name="gonggaoDel" location="1290,1318" size="150,40" />
+    <action name="gonggaoMana" location="1290,1492" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="gonggaoMana.jsp" />
+      </result>
+    </action>
+    <action name="gonggaoDetail" location="1290,1667" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="gonggaoDetail.jsp" />
+      </result>
+    </action>
+    <action name="gonggaoDetailQian" location="1290,1842" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="gonggaoDetailQian.jsp" />
+      </result>
+    </action>
+    <action name="gonggaoQian5" location="1290,2017" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="gonggaoQian5.jsp" />
+      </result>
+    </action>
+    <action name="keshiAdd" location="1290,2123" size="150,40" />
+    <action name="keshiMana" location="1290,2227" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="keshiMana.jsp" />
+      </result>
+    </action>
+    <action name="keshiDel" location="1045,2228" size="150,40" />
+    <action name="keshiEditPre" location="1045,2402" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="keshiEditPre.jsp" />
+      </result>
+    </action>
+    <action name="keshiEdit" location="800,2403" size="150,40" />
+    <action name="keshiAll" location="800,2577" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="keshiAll.jsp" />
+      </result>
+    </action>
+    <action name="yishengAdd" location="555,2578" size="150,40" />
+    <action name="yishengMana" location="555,2752" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="yishengMana.jsp" />
+      </result>
+    </action>
+    <action name="yishengDel" location="310,2753" size="150,40" />
+    <action name="yishengEditPre" location="310,2927" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="yishengEditPre.jsp" />
+      </result>
+    </action>
+    <action name="yishengEdit" location="310,3033" size="150,40" />
+    <action name="yishengAll" location="310,3137" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="yishengAll.jsp" />
+      </result>
+    </action>
+    <action name="yuyueAdd" location="310,3312" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="yuyueAdd_re.jsp" />
+      </result>
+    </action>
+    <action name="yuyueManaMy" location="310,3487" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="yuyueManaMy.jsp" />
+      </result>
+    </action>
+    <action name="yuyueDelMy" location="65,3488" size="150,40" />
+    <action name="yuyueMana" location="65,57" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="yuyueMana.jsp" />
+      </result>
+    </action>
+    <action name="guahaoAdd" location="0,0" size="0,0" />
+    <action name="guahaoMana" location="0,0" size="0,0">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="guahaoMana.jsp" />
+      </result>
+    </action>
+    <action name="guahaoDel" location="0,0" size="0,0" />
+    <action name="guahaoEditPre" location="0,0" size="0,0">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="guahaoEditPre.jsp" />
+      </result>
+    </action>
+    <action name="guahaoEdit" location="0,0" size="0,0" />
+  </package>
+  <webResource name="upload_re.jsp" path="/upload/upload_re.jsp" location="2530,185" size="150,55" />
+  <webResource name="index.jsp" path="/qiantai/index.jsp" location="2543,360" size="150,55" />
+  <webResource name="default.jsp" path="/qiantai/default.jsp" location="2538,535" size="150,55" />
+  <webResource name="userMana.jsp" path="/admin/user/userMana.jsp" location="2553,710" size="150,55" />
+  <webResource name="userXinxi.jsp" path="/admin/order/userXinxi.jsp" location="2553,885" size="150,55" />
+  <webResource name="adminManage.jsp" path="/admin/index/adminManage.jsp" location="2538,1095" size="150,55" />
+  <webResource name="liuyanMana.jsp" path="/admin/liuyan/liuyanMana.jsp" location="2543,1270" size="150,55" />
+  <webResource name="liuyanAll.jsp" path="/qiantai/liuyan/liuyanAll.jsp" location="2550,1445" size="150,55" />
+  <webResource name="gonggaoMana.jsp" path="/admin/gonggao/gonggaoMana.jsp" location="2562,1620" size="150,55" />
+  <webResource name="gonggaoDetail.jsp" path="/admin/gonggao/gonggaoDetail.jsp" location="2562,1795" size="150,55" />
+  <webResource name="gonggaoDetailQian.jsp" path="/qiantai/gonggao/gonggaoDetailQian.jsp" location="2549,1970" size="150,55" />
+  <webResource name="gonggaoQian5.jsp" path="/qiantai/gonggao/gonggaoQian5.jsp" location="2561,2145" size="150,55" />
+  <webResource name="keshiMana.jsp" path="/admin/keshi/keshiMana.jsp" location="2548,2355" size="150,55" />
+  <webResource name="keshiEditPre.jsp" path="/admin/keshi/keshiEditPre.jsp" location="2545,2530" size="150,55" />
+  <webResource name="keshiAll.jsp" path="/qiantai/keshi/keshiAll.jsp" location="2555,2705" size="150,55" />
+  <webResource name="yishengMana.jsp" path="/admin/yisheng/yishengMana.jsp" location="2534,2880" size="150,55" />
+  <webResource name="yishengEditPre.jsp" path="/admin/yisheng/yishengEditPre.jsp" location="2531,3055" size="150,55" />
+  <webResource name="yishengAll.jsp" path="/qiantai/yisheng/yishengAll.jsp" location="2541,3265" size="150,55" />
+  <webResource name="yuyueAdd_re.jsp" path="/qiantai/yuyue/yuyueAdd_re.jsp" location="2539,3440" size="150,55" />
+  <webResource name="yuyueManaMy.jsp" path="/qiantai/yuyue/yuyueManaMy.jsp" location="2534,3615" size="150,55" />
+  <webResource name="yuyueMana.jsp" path="/admin/yuyue/yuyueMana.jsp" location="58,10" size="150,55" />
+  <webResource name="guahaoMana.jsp" path="/admin/guahao/guahaoMana.jsp" location="0,0" size="0,0" />
+  <webResource name="guahaoEditPre.jsp" path="/admin/guahao/guahaoEditPre.jsp" location="0,0" size="0,0" />
+  <webResource name="guahaoAll.jsp" path="/qiantai/guahao/guahaoAll.jsp" location="0,0" size="0,0" />
+</Struts2Diagram>
+

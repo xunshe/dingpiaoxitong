@@ -1,0 +1,36 @@
+@charset "utf-8";
+*{margin:0;padding:0;list-style-type:none;}
+a,img{border:0;}
+body{font:12px/180% Arial, Helvetica, sans-serif, "新宋体";}
+
+#userlogin_body{background:url(../img/user_all_bg.gif) #226cc5 repeat-x 50% top;margin:110px 0px 0px;font:12px/150% arial, "宋体" ,helvetica,sans-serif;text-decoration:none}
+#user_login{margin:0px auto;width:590px}
+#user_top,#user_main,#user_bottom{clear:both}
+#user_top li,#user_main li,#user_bottom li{float:left;}
+.user_top_r{background:url(../img/user_top_r.gif) no-repeat 50% top}
+.user_top_c{background:url(../img/user_top_c.gif) no-repeat 50% top}
+.user_top_l{background:url(../img/user_top_l.gif) no-repeat 50% top}
+.user_main_r{background:url(../img/user_main_r.gif) #bec5cc no-repeat 50% top}
+.user_main_c{background:url(../img/user_main_c.gif) #bec5cc no-repeat 50% top;width:280px}
+.user_main_l{background:url(../img/user_main_l.gif) #bec5cc no-repeat 50% top}
+.user_bottom_r{background:url(../img/user_bottom_r.gif) no-repeat 50% top}
+.user_bottom_c{background:url(../img/user_bottom_c.gif) no-repeat 50% top;color:#fff;line-height:117px;padding-top:20px;text-align:right}
+.user_bottom_c a{color:yellow;text-decoration:underline}
+.user_bottom_c a:hover{color:#c00}
+.user_bottom_l{background:url(../img/user_bottom_l.gif) no-repeat 50% top}
+.user_top_r,.user_main_r,.user_bottom_r{float:left;width:180px}
+.user_main_c,.user_top_c,.user_bottom_c{float:left;width:280px}
+.user_top_l,.user_main_l,.user_bottom_l{float:left;width:129px}
+.user_top_r,.user_top_c,.user_top_l{height:116px}
+.user_main_r,.user_main_c,.user_main_l{height:139px}
+.user_bottom_r,.user_bottom_c,.user_bottom_l{height:117px}
+.user_main_r{line-height:139px}
+.user_main_box ul{clear:both}
+.user_main_box li{float:left;}
+.user_main_box .user_main_text{line-height:34px;height:34px}
+.user_main_box .user_main_input{line-height:34px;height:34px}
+.user_main_box .user_main_text{width:60px;color:#000}
+.user_main_box .user_main_input img{margin-bottom:-2px;margin-left:-25px}
+.txtusernamecssclass{border-top-width:0px;padding-left:25px;border-left-width:0px;background:url(../img/user_login_name.gif) no-repeat;border-bottom-width:0px;width:165px;line-height:20px;height:21px;border-right-width:0px}
+.txtpasswordcssclass{border-top-width:0px;padding-left:25px;border-left-width:0px;background:url(../img/user_login_password.gif) no-repeat;border-bottom-width:0px;width:165px;line-height:20px;height:21px;border-right-width:0px}
+.ibtnentercssclass{width:111px;height:122px;border:0;}

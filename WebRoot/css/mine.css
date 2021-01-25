@@ -1,0 +1,31 @@
+body{
+    font-size: 13px;
+}
+.div_search{
+    font-size: 13px;
+    margin: 10px 5px;
+    padding-left: 10px;
+    line-height: 30px;
+    height:30px;
+    background-color: #E8F2FC;
+    border: solid #1c94c4 1px;
+    overflow: hidden
+}
+.table_a{
+    border-collapse:collapse;
+    border: 1px solid #E3E6EB
+}
+.table_a td{
+    line-height: 25px;
+    padding-left: 8px;
+    text-align: left;
+}
+.div_head{
+    font-size: 13px;
+    margin: 10px 5px;
+    padding-left: 10px;
+    line-height: 25px;
+    height:25px;
+    background-color: #E8F2FC;
+    border-bottom: solid #1c94c4 1px
+}

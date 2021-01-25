@@ -1,0 +1,81 @@
+A:link {
+	FONT-SIZE: 9pt; COLOR: #666666; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 9pt; COLOR: #666666; TEXT-DECORATION: none
+}
+A:active {
+	FONT-SIZE: 9pt; COLOR: #ff9900; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 9pt; COLOR: #ff9900; TOP: 1px; TEXT-DECORATION: underline
+}
+A.A1:link {
+	FONT-SIZE: 9pt; COLOR: #e0e2e4; TEXT-DECORATION: none
+}
+A.A1:visited {
+	FONT-SIZE: 9px; TEXT-DECORATION: none
+}
+A.A1:active {
+	FONT-SIZE: 9pt; COLOR: #ffcc00; TEXT-DECORATION: underline
+}
+A.A1:hover {
+	FONT-SIZE: 9pt; CURSOR: hand; COLOR: #ffcc00; TOP: 1px; TEXT-DECORATION: underline
+}
+.tpt {
+	FONT-SIZE: 9pt; COLOR: #666666; LINE-HEIGHT: 150%
+}
+.hand {
+	FONT-SIZE: 9pt; CURSOR: hand; LINE-HEIGHT: 130%
+}
+index1:link {
+	FONT-SIZE: 9px; TEXT-DECORATION: none
+}
+index1:hover {
+	FONT-SIZE: 9px; COLOR: #ffcc00; TEXT-DECORATION: underline
+}
+index1:active {
+	FONT-SIZE: 9px; COLOR: #ffcc00; TEXT-DECORATION: none
+}
+.unnamed1 {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 120%
+}
+.wz2Copy {
+	FONT-SIZE: 9pt; COLOR: #ffffff
+}
+.wz2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #666666; TEXT-DECORATION: none
+}
+.e12 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal
+}
+.f12 {
+	FONT-SIZE: 12px; COLOR: #006699; FONT-STYLE: normal
+}
+.z12 {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal
+}
+.l12 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #5a5aad
+}
+.link2 {
+	FONT-SIZE: 12px; COLOR: #0066ff
+}
+.tpt200 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 200%; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.box {
+	BORDER-RIGHT: #003300 1px; PADDING-RIGHT: 0px; BORDER-TOP: #003300 1px; PADDING-LEFT: 0px; Z-INDEX: 1; LEFT: 1px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #003300 1px; CLIP: ; CURSOR: hand; COLOR: #ffffff; PADDING-TOP: 0px; BORDER-BOTTOM: #000000 1px; POSITION: relative; TOP: 1px; BACKGROUND-COLOR: #cc0000
+}
+.hand2 {
+	FONT-SIZE: 9pt; CURSOR: hand; LINE-HEIGHT: 130%; TEXT-DECORATION: underline
+}
+.box2 {
+	BORDER-RIGHT: #003300 1px; PADDING-RIGHT: 0px; BORDER-TOP: #003300 1px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #003300 1px; CURSOR: hand; COLOR: #ffffff; PADDING-TOP: 0px; BORDER-BOTTOM: #000000 1px; BACKGROUND-COLOR: #999900
+}
+.box3 {
+	BORDER-RIGHT: #003300 1px; PADDING-RIGHT: 0px; BORDER-TOP: #003300 1px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #003300 1px; CURSOR: hand; COLOR: #ffffff; PADDING-TOP: 0px; BORDER-BOTTOM: #000000 1px; BACKGROUND-COLOR: #0066cc
+}
+.tptCopy {
+	FONT-SIZE: xx-small; COLOR: #666666; LINE-HEIGHT: 150%; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}

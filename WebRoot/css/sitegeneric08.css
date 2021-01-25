@@ -1,0 +1,18 @@
+.MainCenter {
+	WIDTH: 972px; POSITION: relative; TEXT-ALIGN: center
+}
+.MainCenter .naivgation {
+	DISPLAY: inline; FLOAT: left; WIDTH: 192px
+}
+.MainCenter .Sub {
+	FLOAT: left; MARGIN: 0px; WIDTH: 780px; POSITION: relative
+}
+.MainCenter .Sub .Subheader {
+	PADDING-LEFT: 10px; VERTICAL-ALIGN: middle; WIDTH: 770px; LINE-HEIGHT: 32px; HEIGHT: 32px; TEXT-ALIGN: left
+}
+.MainCenter .Sub .SubContent1 {
+	DISPLAY: inline; FLOAT: left; WIDTH: 780px
+}
+.MainCenter .Sub .Subfooter {
+	FLOAT: left; WIDTH: 100%; HEIGHT: 25px
+}
