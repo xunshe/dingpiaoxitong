@@ -19,7 +19,6 @@ tomcat:7.0
 管理员端：
      管理员管理会员，管理电影，查看用户生成订单，销量管理，留言管理，电影分类管理。   
 ### 项目截图  
-  图片需要翻墙才能看到
   ![Image text](http://xunshe.org/storage/images/ce8d4b586fc615f595152ac3dce52bfe.jpg)
   ![Image text](http://xunshe.org/storage/images/8d407e86daf9dd37db4fbeb5a9812b26.png)
   ![Image text](http://xunshe.org/storage/images/8bca30d97b2bac5a99a5a0d65b600918.png)
