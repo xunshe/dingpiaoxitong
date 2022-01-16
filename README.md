@@ -1,6 +1,6 @@
 ## 基于java电影院订票选座系统  
 需要此完整设计包括论文安装教程等，访问   
-地址：[http://www.xunshe.org/product/2](http://www.xunshe.org/product/2)
+地址：[https://www.bisheyun.com/product/10](https://www.bisheyun.com/product/10)
 
 ***
 ### 运行环境 
@@ -19,6 +19,6 @@ tomcat:7.0
 管理员端：
      管理员管理会员，管理电影，查看用户生成订单，销量管理，留言管理，电影分类管理。   
 ### 项目截图  
-  ![Image text](http://xunshe.org/storage/images/ce8d4b586fc615f595152ac3dce52bfe.jpg)
-  ![Image text](http://xunshe.org/storage/images/8d407e86daf9dd37db4fbeb5a9812b26.png)
-  ![Image text](http://xunshe.org/storage/images/8bca30d97b2bac5a99a5a0d65b600918.png)
+  ![Image text](http://www.bisheyun.com/uploads/images/wangEditor/202105/13/prouduct_1620904176_jFGSPSom8x.jpg)
+  ![Image text](http://www.bisheyun.com/uploads/images/wangEditor/202105/13/prouduct_1620904524_DYhFDteh7D.jpg)
+  ![Image text](http://www.bisheyun.com/uploads/images/wangEditor/202105/13/prouduct_1620904547_BPfaesI7bu.jpg)
